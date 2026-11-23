@@ -1,0 +1,7 @@
+V1.1
+
+Changed the background colour to suit the designer better on the homepage
+All buttons work as they should 
+Matched the text to the new background so all text is now readable
+Added a version number as the footer so you can tell if you are on an outdated version of the website
+general code cleanup
